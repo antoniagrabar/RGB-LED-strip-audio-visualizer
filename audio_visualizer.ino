@@ -1,6 +1,6 @@
 
 #include <Adafruit_NeoPixel.h>
-#include "arduinoFFT.h"               // implements floating point Fast Fourier Transform calculations                             
+#include "arduinoFFT.h"               // include Fast Fourier Transform calculations                             
 
 #define LED_DATA 6
 #define POTENTIOMETER A2          
